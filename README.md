@@ -7,8 +7,8 @@ I'm doing projects/exercises in languages like Java, Python, C, JavaScript, HTML
 
 <div>
   <a href="https://github.com/IGamerBrasil">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IGamerBrasil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGamerBrasil&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasCandemilChagas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCandemilChagas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
