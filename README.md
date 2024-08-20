@@ -2,7 +2,7 @@
 
 
 
-First of all, I'm Lucas Chagas and this is my github page. I'm currently in the 4th semester of Computer Science at PUCRS. 
+First of all, I'm Lucas Chagas and this is my github page. I use GitHub for study. I'm currently in the 5th semester of Computer Science at PUCRS. 
 I'm doing projects/exercises in languages like Java, Python, C, JavaScript, HTML, to improve my knowledge and techniques.
 
 <div>
