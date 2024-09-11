@@ -3,7 +3,7 @@
 
 
 First of all, I'm Lucas Chagas and this is my GitHub page and it's used for my studies. I'm currently in the 5th semester of Computer Science at PUCRS. 
-I'm doing projects/exercises in languages like Java, Python, C, JavaScript, HTML, to improve my knowledge and techniques.
+I'm doing projects/exercises in languages like Java, Python, C to improve my knowledge and techniques.
 
 <div>
   <a href="https://github.com/IGamerBrasil">
@@ -13,9 +13,7 @@ I'm doing projects/exercises in languages like Java, Python, C, JavaScript, HTML
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Lucas_Chagas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Lucas_Chagas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Lucas_Chagas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Lucas_Chagas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Lucas_Chagas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
