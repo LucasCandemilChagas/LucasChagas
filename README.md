@@ -3,7 +3,7 @@
 
 
 First of all, I'm Lucas Chagas and this is my GitHub page and it's used for my studies. I'm currently in the 5th semester of Computer Science at PUCRS. 
-I'm doing projects/exercises in languages like Java, Python, C to improve my knowledge and techniques.
+I'm doing projects/exercises in languages like Java, Python, C, HTML, CSS to improve my knowledge and techniques.
 
 <div>
   <a href="https://github.com/IGamerBrasil">
